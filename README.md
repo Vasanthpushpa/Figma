@@ -31,6 +31,7 @@ Publish the website in the given URL.
 ## DESIGN TOOL:
 Figma
 ## code:
+```
 /* Login page */
 
 position: relative;
@@ -384,7 +385,7 @@ font-size: 24px;
 line-height: 29px;
 text-align: center;
 color: #FFFFFF;
-
+```
 ## OUTPUT:
 ![Output](./IMAGE1.png)
 ![Output](./IMAGE2.png)
